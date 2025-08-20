@@ -1,0 +1,15 @@
+{
+  "name": "kavkazexpressbot",
+  "version": "1.0.0",
+  "description": "Telegram Mini App for Kavkaz Express trucking company",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests available\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "telegraf": "^4.16.3"
+  },
+  "type": "commonjs"
+}
